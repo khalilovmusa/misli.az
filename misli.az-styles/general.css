@@ -7,16 +7,43 @@
 .header-of-header-section {
   display: flex;
   flex-direction: row;
+  margin-top: 20px;
+
+}
+
+.logo-container{
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-left: 10px;
 
 }
 
 .header-nav-section {
   display: flex;
   flex-direction: row;
-  border-bottom: 2px solid #fff;
+  border-bottom: 1px solid #fff;
   margin-top: 20px;
   align-items: center;
   
+}
+
+.header-nav-section div{
+  cursor: pointer;
+  
+}
+
+.fitness-div-container,
+.poz-qazan-div-container,
+.virtual-fitness-div-container,
+.express-keno-div-container,
+.bingo-div-container,
+.loto-div-container{
+  margin-right: 20px;
+
+}
+
+.digital-games-div-container{
+  margin-right: 0px;
 
 }
 
@@ -184,8 +211,15 @@
 
 }
 
-.header-log-in-button-contaienr{
+.header-log-in-button-container{
   display: flex;
   flex-direction: row;
+  margin-left: 40px;
+  margin-top: 20px;
+
+}
+
+.log-in-button-itself{
+  margin-left: 20px;
 
 }
