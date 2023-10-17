@@ -415,3 +415,28 @@
   color: #FE4100;
 
 }
+
+.header-of-header-nav-footer div{
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.header-of-header-nav-footer{
+  display: flex;
+  flex-direction: row;
+
+}
+
+.live-nav-svg-container img,
+.football-nav-svg-container img,
+.basketball-nav-svg-container img,
+.voleyball-nav-svg-container img,
+.handball-nav-svg-container img,
+.hockey-nav-svg-container img,
+.tennis-nav-svg-container img{
+  height: 37px;
+  width: 37px;
+  margin-bottom: 5px;
+  
+}
