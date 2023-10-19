@@ -425,6 +425,7 @@
 .header-of-header-nav-footer{
   display: flex;
   flex-direction: row;
+  margin-left: 200px;
 
 }
 
