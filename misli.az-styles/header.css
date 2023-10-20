@@ -436,8 +436,12 @@
 .handball-nav-svg-container img,
 .hockey-nav-svg-container img,
 .tennis-nav-svg-container img{
-  height: 37px;
-  width: 37px;
+
   margin-bottom: 5px;
   
+}
+
+.header-of-header-nav-footer{
+  background-color: #231F20;
+
 }
